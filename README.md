@@ -1,4 +1,4 @@
-# $\color{Purple}{\Huge{\textsf{GIS\ Portfolio}}}$
+# GIS Portfolio 
 
 Welcome to my Portfolio of GIS Projects for GIS Courses at Heinz College at CMU.
 
