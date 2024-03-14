@@ -1,4 +1,4 @@
-# ${{\color{Purple}\Huge{\textsf{GIS\ Portfolio\ \}}}}\$
+# ${{\color{Purple}\Huge{\textsf{GIS\ Portfolio\ \}}/\}\}/\$
 Welcome to my Portfolio of GIS Projects for GIS Courses at Heinz College at CMU.
 ## ${{\color{Purple}\Huge{\textsf{About Me }}}}\$ :grinning: 	:computer: 	:hiking_boot:
 <img align="right" src ="https://github.com/njmcgrat/GIS-Portfolio/assets/143455814/1b97f39f-7e01-4d5c-bfc8-e865c4771869" width="150" height="200" />
