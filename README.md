@@ -19,5 +19,5 @@ I hope to deepen my understanding of spatial data analysis and visualization tec
 
 ### * Custom ArcGIS Map Style for VisitPA Project
 https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/
-
+[![](https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/)](https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/)
 ### * Final Project
