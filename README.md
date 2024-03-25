@@ -18,12 +18,12 @@ I hope to deepen my understanding of spatial data analysis and visualization tec
 [Fun Places Road Trip](https://felt.com/map/Fun-places-road-trip-copy-bu59CWs9B2SxC30ux5tmJ5lD)
 
 ### * Custom ArcGIS Map Style for VisitPA Project
-https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/
-[![](https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/)](https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/)
+[VisitPA Pickle Road App](https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/)
 
-### * Challenge Exercise
-'[Week 3](ChallengeExerciseWeek3)' or '[Week3](https://njmcgrat.github.io/GIS-Portfolio/ChallengeExerciseWeek3.html)' or '[CMU](https://www.cmu.edu)'
+### * Challenge Exercises
+[Week3](https://njmcgrat.github.io/GIS-Portfolio/ChallengeExerciseWeek3.html)
 
-
+### Build and deploy a custom Google Map for a non-profit organization
+[Custom Map for Non Profit](https://njmcgrat.github.io/GIS-Portfolio/customGoogleMap4NP.html)
 
 ### * Final Project
