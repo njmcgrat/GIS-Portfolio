@@ -245,7 +245,6 @@
     </style>
   </head>
   <body>
-    <div id="top"> <h1>Build and deploy a custom Google Map for a non-profit organization</h1></div>
     <div id="map"></div>
     <script>
       function initMap() {
