@@ -23,6 +23,7 @@ https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/
 
 ### * Challenge Exercise
 
-<iframe src="https://insights.arcgis.com/#/embed/144c94fd0b20481296e9520114a7752c" width="100%" height="100%" frameborder="0"></iframe>
+https://github.com/njmcgrat/GIS-Portfolio/blob/main/ChallengeExerciseWeek3
+
 
 ### * Final Project
