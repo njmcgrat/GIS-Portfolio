@@ -22,8 +22,8 @@ https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/
 [![](https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/)](https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/)
 
 ### * Challenge Exercise
+'[title](Week3)' or `[Week3](https://njmcgrat.github.io/GIS-Portfolio/ChallengeExerciseWeek3.html)` or `[CMU](https://www.cmu.edu)
 
-https://github.com/njmcgrat/GIS-Portfolio/blob/main/ChallengeExerciseWeek3
 
 
 ### * Final Project
