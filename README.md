@@ -23,7 +23,7 @@ I hope to deepen my understanding of spatial data analysis and visualization tec
 ### * Challenge Exercises
 [Week3](https://njmcgrat.github.io/GIS-Portfolio/ChallengeExerciseWeek3.html)
 
-### Build and deploy a custom Google Map for a non-profit organization
+### *  Build and deploy a custom Google Map for a non-profit organization
 [Custom Map for Non Profit](https://njmcgrat.github.io/GIS-Portfolio/customGoogleMap4NP.html)
 
 ### * Final Project
