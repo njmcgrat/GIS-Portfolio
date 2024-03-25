@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Give me a name!</title>
-    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
-    <meta charset="utf-8">
+    <title>Simple Marker</title>
+    <!-- The callback parameter is required, so we use console.debug as a noop -->
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDPfHpWqKkKBKArvmkcuCH0LzvFkZRbf9g&callback=console.debug&libraries=maps,marker&v=beta">
+    </script>
     <style>
       /* Always set the map height explicitly to define the size of the div
        * element that contains the map. */
-      #map {
+      gmp-map {
         height: 100%;
       }
+
       /* Optional: Makes the sample page fill the window. */
-      html, body {
+      html,
+      body {
         height: 100%;
         margin: 0;
         padding: 0;
@@ -19,21 +22,8 @@
     </style>
   </head>
   <body>
-    <div id="map"></div>
-    <script>
-      function initMap() {
-        // Styles a map in custom mode.
-        var map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: 40.4583498, lng: -80.079528},  // Setting the center to Pittsburgh, change as you like
-          zoom: 15,  // Setting a zoom scale for Pittsburgh
-          styles:    // Add JSON from Map Style Wizard below this line... 
-
-// ..and here's the end of JSON from Style Wizard          
-        });
-      }
-// Don't forget your API Key below vv
-    </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDPfHpWqKkKBKArvmkcuCH0LzvFkZRbf9g&callback=initMap"
-    async defer></script>
+    <gmp-map center="40.42161560058594,-79.88963317871094" zoom="14" map-id="DEMO_MAP_ID">
+      <gmp-advanced-marker position="40.42161560058594,-79.88963317871094" title="Pittsburgh H4H"></gmp-advanced-marker>
+    </gmp-map>
   </body>
 </html>
