@@ -1,8 +1,8 @@
-### Build and deploy a custom Google Map for a non-profit organization
+
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Give me a name!</title>
+    <title>Build and deploy a custom Google Map for a non-profit organization</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
@@ -247,6 +247,7 @@
     </style>
   </head>
   <body>
+    <div id="top"> <h1>Build and deploy a custom Google Map for a non-profit organization</h1></div>
     <div id="map"></div>
     <script>
       function initMap() {
