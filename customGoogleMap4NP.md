@@ -1,7 +1,7 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
   <head>
-    <title>Build and deploy a custom Google Map for a non-profit organization</title>
+    <title>Give me a name!</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
@@ -9,7 +9,6 @@
        * element that contains the map. */
       #map {
         height: 100%;
-        
       }
       /* Optional: Makes the sample page fill the window. */
       html, body {
