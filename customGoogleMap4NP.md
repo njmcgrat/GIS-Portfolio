@@ -1,29 +1,10 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Simple Marker</title>
-    <!-- The callback parameter is required, so we use console.debug as a noop -->
-    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDPfHpWqKkKBKArvmkcuCH0LzvFkZRbf9g&callback=console.debug&libraries=maps,marker&v=beta">
-    </script>
-    <style>
-      /* Always set the map height explicitly to define the size of the div
-       * element that contains the map. */
-      gmp-map {
-        height: 100%;
-      }
-
-      /* Optional: Makes the sample page fill the window. */
-      html,
-      body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-      }
-    </style>
-  </head>
-  <body>
-    <gmp-map center="40.42161560058594,-79.88963317871094" zoom="14" map-id="DEMO_MAP_ID">
-      <gmp-advanced-marker position="40.42161560058594,-79.88963317871094" title="Pittsburgh H4H"></gmp-advanced-marker>
-    </gmp-map>
-  </body>
-</html>
+<iframe
+  width="600"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDPfHpWqKkKBKArvmkcuCH0LzvFkZRbf9g
+    &q=Space+Needle,Seattle+WA">
+</iframe>
