@@ -22,7 +22,7 @@ https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/
 [![](https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/)](https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/)
 
 ### * Challenge Exercise
-'[Week 3](ChallengeExerciseWeek3)' or `[Week3](https://njmcgrat.github.io/GIS-Portfolio/ChallengeExerciseWeek3.html)` or `[CMU](https://www.cmu.edu)
+'[Week 3](ChallengeExerciseWeek3)' or '[Week3](https://njmcgrat.github.io/GIS-Portfolio/ChallengeExerciseWeek3.html)' or '[CMU](https://www.cmu.edu)'
 
 
 
