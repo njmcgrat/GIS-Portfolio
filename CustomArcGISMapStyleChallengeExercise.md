@@ -25,10 +25,10 @@ I are excited about the opportunity to work with your organization on this proje
 
 # Style Examples
 ## State Park (Local) Level
-<img src="https://github.com/njmcgrat/GIS-Portfolio/blob/main/MilleLacsKathioSP.png" alt="State Park Zoom" width="600" height="400">
+<img src="https://github.com/njmcgrat/GIS-Portfolio/blob/main/MilleLacsKathioSP.png?raw=true" alt="State Park Zoom" width="600" height="400">
 
 ## Regional Level
-<img src="https://github.com/njmcgrat/GIS-Portfolio/blob/main/MilleLacs.png" alt="Region Zoom" width="600" height="400">
+<img src="https://github.com/njmcgrat/GIS-Portfolio/blob/main/MilleLacs.png?raw=true" alt="Region Zoom" width="600" height="400">
 
 ## State Level
 <img src="https://github.com/njmcgrat/GIS-Portfolio/blob/main/MN.png?raw=true" alt="State Zoom" width="600" height="400">
@@ -37,7 +37,7 @@ I are excited about the opportunity to work with your organization on this proje
 ## Color Pallet
 The color pallet was generate by inputing the logo for the Minnesota DNR into the online Adobe tool.  The logo is very simple and only has three colors (if you count white), so I selected a 'muted' pallet to increase the number of distinct colors to use on the map style. 
 
-![dnrcolorpallet.png](https://github.com/njmcgrat/GIS-Portfolio/blob/main/dnrcolorpallet.png "Color Pallet")
+![dnrcolorpallet.png](https://github.com/njmcgrat/GIS-Portfolio/blob/main/dnrcolorpallet.png?raw=true "Color Pallet")
 
  ## Custom Style Details
  <table>
@@ -199,6 +199,6 @@ The color pallet was generate by inputing the logo for the Minnesota DNR into th
 
 ## [Download style Json File](https://github.com/njmcgrat/GIS-Portfolio/blob/main/mn_dnr_custom_map.json)
 
-![static map?](https://maps.googleapis.com/maps/api/staticmap?key=YOUR_API_KEY&center=44.87238552356678,-93.1930747850586&zoom=14&format=png&maptype=roadmap&style=element:geometry%7Ccolor:0x4a8c5b&style=element:labels.text.fill%7Ccolor:0x523735&style=element:labels.text.stroke%7Ccolor:0xf5f1e6&style=feature:administrative%7Celement:geometry.stroke%7Ccolor:0xc9b2a6&style=feature:administrative.land_parcel%7Celement:geometry.stroke%7Ccolor:0x82bf45&style=feature:administrative.land_parcel%7Celement:labels.text.fill%7Ccolor:0xae9e90&style=feature:landscape.natural%7Celement:geometry%7Ccolor:0x4a8c5b&style=feature:poi%7Celement:geometry%7Ccolor:0xf2f2f2&style=feature:poi%7Celement:labels.text.fill%7Ccolor:0x93817c&style=feature:poi.park%7Celement:geometry.fill%7Ccolor:0x82bf45&style=feature:poi.park%7Celement:labels.text.fill%7Ccolor:0x447530&style=feature:road%7Celement:geometry%7Ccolor:0xf5f1e6&style=feature:road.arterial%7Celement:geometry%7Ccolor:0xfdfcf8&style=feature:road.highway%7Celement:geometry%7Ccolor:0xf8c967&style=feature:road.highway%7Celement:geometry.stroke%7Ccolor:0xe9bc62&style=feature:road.highway.controlled_access%7Celement:geometry%7Ccolor:0xe98d58&style=feature:road.highway.controlled_access%7Celement:geometry.stroke%7Ccolor:0xdb8555&style=feature:road.local%7Celement:labels.text.fill%7Ccolor:0x806b63&style=feature:transit.line%7Celement:geometry%7Ccolor:0xdfd2ae&style=feature:transit.line%7Celement:labels.text.fill%7Ccolor:0x8f7d77&style=feature:transit.line%7Celement:labels.text.stroke%7Ccolor:0xebe3cd&style=feature:transit.station%7Celement:geometry%7Ccolor:0xdfd2ae&style=feature:water%7Celement:geometry.fill%7Ccolor:0x024873&style=feature:water%7Celement:labels.text.fill%7Ccolor:0x92998d&size=480x360)
+![static map](https://maps.googleapis.com/maps/api/staticmap?key=YOUR_API_KEY&center=44.87238552356678,-93.1930747850586&zoom=14&format=png&maptype=roadmap&style=element:geometry%7Ccolor:0x4a8c5b&style=element:labels.text.fill%7Ccolor:0x523735&style=element:labels.text.stroke%7Ccolor:0xf5f1e6&style=feature:administrative%7Celement:geometry.stroke%7Ccolor:0xc9b2a6&style=feature:administrative.land_parcel%7Celement:geometry.stroke%7Ccolor:0x82bf45&style=feature:administrative.land_parcel%7Celement:labels.text.fill%7Ccolor:0xae9e90&style=feature:landscape.natural%7Celement:geometry%7Ccolor:0x4a8c5b&style=feature:poi%7Celement:geometry%7Ccolor:0xf2f2f2&style=feature:poi%7Celement:labels.text.fill%7Ccolor:0x93817c&style=feature:poi.park%7Celement:geometry.fill%7Ccolor:0x82bf45&style=feature:poi.park%7Celement:labels.text.fill%7Ccolor:0x447530&style=feature:road%7Celement:geometry%7Ccolor:0xf5f1e6&style=feature:road.arterial%7Celement:geometry%7Ccolor:0xfdfcf8&style=feature:road.highway%7Celement:geometry%7Ccolor:0xf8c967&style=feature:road.highway%7Celement:geometry.stroke%7Ccolor:0xe9bc62&style=feature:road.highway.controlled_access%7Celement:geometry%7Ccolor:0xe98d58&style=feature:road.highway.controlled_access%7Celement:geometry.stroke%7Ccolor:0xdb8555&style=feature:road.local%7Celement:labels.text.fill%7Ccolor:0x806b63&style=feature:transit.line%7Celement:geometry%7Ccolor:0xdfd2ae&style=feature:transit.line%7Celement:labels.text.fill%7Ccolor:0x8f7d77&style=feature:transit.line%7Celement:labels.text.stroke%7Ccolor:0xebe3cd&style=feature:transit.station%7Celement:geometry%7Ccolor:0xdfd2ae&style=feature:water%7Celement:geometry.fill%7Ccolor:0x024873&style=feature:water%7Celement:labels.text.fill%7Ccolor:0x92998d&size=480x360)
 
-[My attempt at embedding the map](https://njmcgrat.github.io/GIS-Portfolio/customGoogleMap4NP.html)  !buggy!
+[My attempt at embedding the map](https://njmcgrat.github.io/GIS-Portfolio/customGoogleMap4NP.html)
