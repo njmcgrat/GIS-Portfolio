@@ -1,3 +1,12 @@
-<iframe title="Red Spotted Lanternfly Analysis" scrolling="no" frameborder="0" src="https://carnegiemellon.maps.arcgis.com/home/webmap/embedGallery.html?displayapps=true&displayinline=true&group=a6b16d1b57614fb98c0771ff2bc66bab" style="width:720px; height:687px"></iframe>
+# Custom Google Map Style for Habitat for Humanity
 
-<iframe src="https://experience.arcgis.com/experience/54a3adb39f744a37a8b3ea4da5b65df8/"></iframe>
+<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
+src="https://www.google.com/maps/embed/v1/search?q=Habitat%20for%20Humanity%20ReStore&key=AIzaSyDPfHpWqKkKBKArvmkcuCH0LzvFkZRbf9g"></iframe>
+
+[StateParkZoom](https://github.com/njmcgrat/GIS-Portfolio/blob/main/MilleLacsKathioSP.png)
+
+[Region Zoom](https://github.com/njmcgrat/GIS-Portfolio/blob/main/MilleLacs.png)
+
+[State Zoom](https://github.com/njmcgrat/GIS-Portfolio/blob/main/MN.png)
+
+[Color Pallet] (https://github.com/njmcgrat/GIS-Portfolio/blob/main/dnrcolorpallet.png)
