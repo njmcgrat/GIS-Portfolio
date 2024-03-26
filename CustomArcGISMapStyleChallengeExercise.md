@@ -39,7 +39,8 @@ The color pallet was generate by inputing the logo for the Minnesota DNR into th
 
 ![dnrcolorpallet.png](https://github.com/njmcgrat/GIS-Portfolio/blob/main/dnrcolorpallet.png?raw=true "Color Pallet")
 
- ## Custom Style Details
+
+## Custom Style Details
  <table>
   <thead>
     <tr>
