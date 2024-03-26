@@ -26,4 +26,7 @@ I hope to deepen my understanding of spatial data analysis and visualization tec
 ### *  Build and deploy a custom Google Map for a non-profit organization
 [Custom Map for Non Profit](https://njmcgrat.github.io/GIS-Portfolio/customGoogleMap4NP.html)
 
+<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
+src="https://www.google.com/maps/embed/v1/search?q=Habitat%20for%20Humanity%20ReStore&key=AIzaSyDPfHpWqKkKBKArvmkcuCH0LzvFkZRbf9g"></iframe>
+
 ### * Final Project
