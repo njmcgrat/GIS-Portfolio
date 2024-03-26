@@ -31,7 +31,7 @@ I are excited about the opportunity to work with your organization on this proje
 <img src="https://github.com/njmcgrat/GIS-Portfolio/blob/main/MilleLacs.png" alt="Region Zoom" width="600" height="400">
 
 ## State Level
-<img src="https://github.com/njmcgrat/GIS-Portfolio/blob/main/MN.png" alt="State Zoom" width="600" height="400">
+<img src="https://github.com/njmcgrat/GIS-Portfolio/blob/main/MN.png?raw=true" alt="State Zoom" width="600" height="400">
 
 # Deliverables 
 ## Color Pallet
