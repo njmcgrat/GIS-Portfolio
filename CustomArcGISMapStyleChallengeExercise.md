@@ -198,3 +198,5 @@ The color pallet was generate by inputing the logo for the Minnesota DNR into th
 </table>
 
 ## [Download style Json File](https://github.com/njmcgrat/GIS-Portfolio/blob/main/mn_dnr_custom_map.json)
+
+[My attempt at embedding the map](https://njmcgrat.github.io/GIS-Portfolio/customGoogleMap4NP.html)  !buggy!
