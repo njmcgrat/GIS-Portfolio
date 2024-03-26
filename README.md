@@ -24,7 +24,7 @@ I hope to deepen my understanding of spatial data analysis and visualization tec
 [Week3](https://njmcgrat.github.io/GIS-Portfolio/ChallengeExerciseWeek3.html)
 
 ### *  Build and deploy a custom Google Map for a non-profit organization
-[Custom Map for MN DNR](https://github.com/njmcgrat/GIS-Portfolio/blob/main/CustomArcGISMapStyleChallengeExercise.html)
+[Custom Map for MN DNR](https://njmcgrat.github.io/GIS-Portfolio/CustomArcGISMapStyleChallengeExercise.html)
 
 <iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen
 src="https://www.google.com/maps/embed/v1/search?q=MN%20State%20Parks&key=AIzaSyDPfHpWqKkKBKArvmkcuCH0LzvFkZRbf9g"></iframe>
