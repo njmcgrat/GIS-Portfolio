@@ -23,6 +23,8 @@ I hope to deepen my understanding of spatial data analysis and visualization tec
 ### * Challenge Exercises
 [Week3](https://njmcgrat.github.io/GIS-Portfolio/ChallengeExerciseWeek3.html)
 
+[Week3#2](https://njmcgrat.github.io/GIS-Portfolio/OttawaCyclingFatalitiesAnalysis.html)
+
 ### *  Build and deploy a custom Google Map for a non-profit organization
 [Custom Map for MN DNR](https://njmcgrat.github.io/GIS-Portfolio/CustomArcGISMapStyleChallengeExercise.html)
 
